@@ -1,0 +1,1 @@
+//nix-channel --update <channel alias> (for example "https://nixos.org/channels/nixos-24.05"
