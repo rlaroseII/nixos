@@ -1,0 +1,3 @@
+1. Download config from proton. (.conf file)
+2. Save to /etc/nixos/wireguard
+3. Open network configuration and import file by choosing .conf file in /etc/nixos/wireguard
